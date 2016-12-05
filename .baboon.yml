@@ -1,0 +1,11 @@
+infos:
+    theme_name: 'Baboon Demo Theme'
+    update_zip_uri: 'https://github.com/behram/baboon-default-theme/archive/master.zip'
+    update_git_uri: 'git@github.com:behram/baboon-default-theme.git'
+
+assets:
+    logo:
+        type: image
+    title:
+        type: text
+        max: 50
